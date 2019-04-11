@@ -78,9 +78,9 @@ experiences:
       time: 2008 - Present
       company: Computer Technology Institute and Press 
       details: |
-          - Systems & Network Administrator
-          - Penetration testing / Vulnerability assessment
-          - Systems security hardening
+        #  - Systems & Network Administrator
+        #  - Penetration testing / Vulnerability assessment
+        #  - Systems security hardening
 
 #projects:
 #    title: Projects
