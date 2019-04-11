@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: c18papa at ionio.gr
     #phone: 012 345 6789
-    website: c18papa.github.io/c18papa-cv blog.webjeda.com #do not add http://
+    website: c18papa.github.io/c18papa-cv #do not add http://
     #linkedin: alandoe
     github: c18papa
     gitlab:
@@ -32,14 +32,12 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Swiming
         link:
 
-      - item: Snowboarding
+      - item: Traveling
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -53,9 +51,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: Hellenic Open University
+      time: 2012 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,10 +63,13 @@ education:
 
           - Bullet point
           - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          
+    - degree: Cisco Certified Network Associate Routing & Switching (CCNA)
+      time: 2009
+    
+    - degree: BSc in Finance and Auditing
+      university: Technological Educational Institute Of Kalamata
+      time: 2004 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -81,8 +82,8 @@ education:
 
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2008 - Present
+      company: Computer Technology Institute and Press 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,32 +94,6 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
           - Bullet point
           - Bullet point
@@ -154,31 +129,28 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: "Designing, Implementing and Supporting aFOSS Solution in Hellenic Primary and Secondary Education Schools"
+        authors: Siahos, Y., Papanagiotou, I., Georgopoulos, A.
+        conference: "International Conference on Information Communication Technologies in Education (ICICTE), Rhodes,7-9 July, 2011, pp. 202-212."
+        
+      - title: "An Architecture Paradigm for Providing Cloud Services in School Labs Based on Open Source Softwareto Enhance ICT in Education"
+      - authors: Siahos, I., Papanagiotou, I., Georgopoulos, A., Tsamis, F. & Papaioannou, I.
+      - conference: "International Journal of Cyber Ethics in Education, Volume 2, Issue 1, 2012, pp. 44-5"
+        
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Networking
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Virtualization
         level: 98%
 
       - name: Angular
