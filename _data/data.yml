@@ -100,13 +100,30 @@ publications:
 
     papers:
 
+      - title: "Οργάνωση και Διαχείριση Σχολικού Εργαστηρίου Υπολογιστών με ΕΛΛΑΚ: Εμπειρία από την εφαρμογή σε 100 σχολεία"
+        authors: Σιάχος Ι., Γεωργόπουλος Ά. & Παπαναγιώτου Ι.
+        conference: "6ο Πανελλήνιο Συνέδριο των Εκπαιδευτικών για τις ΤΠΕ, Σύρος, 6-8 Μαΐου 2011, Πρακτικά: σσ. 988-998"
+
       - title: "Designing, Implementing and Supporting aFOSS Solution in Hellenic Primary and Secondary Education Schools"
         authors: Siahos, Y., Papanagiotou, I., Georgopoulos, A.
         conference: "International Conference on Information Communication Technologies in Education (ICICTE), Rhodes,7-9 July, 2011, pp. 202-212."
         
       - title: "An Architecture Paradigm for Providing Cloud Services in School Labs Based on Open Source Softwareto Enhance ICT in Education"
-      - authors: Siahos, I., Papanagiotou, I., Georgopoulos, A., Tsamis, F. & Papaioannou, I.
-      - conference: "International Journal of Cyber Ethics in Education, Volume 2, Issue 1, 2012, pp. 44-5"
+        authors: Siahos, I., Papanagiotou, I., Georgopoulos, A., Tsamis, F. & Papaioannou, I.
+        conference: "International Journal of Cyber Ethics in Education, Volume 2, Issue 1, 2012, pp. 44-57"
+      
+      - title: "Απλοποιώντας την εγκατάσταση και τη λειτουργία του LTSP για τα ελληνικά και όχι μόνο σχολεία."
+        authors:  Σιάχος Ι., Γεωργόπουλος Ά., Τσάμης Φ., Παπαναγιώτου Ι., Παπακυρύκου Β. & Νικόλτσιος Ε.
+       conference: "7ο Πανελλήνιο Συνέδριο Καθηγητών Πληροφορικής Δευτεροβάθμιας Εκπαίδευσης, Πανεπιστήμιο Μακεδονίας, 12-14 Απριλίου 2013."
+      
+      - title: "Αποτελέσματα από τη χρήση ΕΛ/ΛΑΚ στην Α΄βάθμια και Β΄βάθμια εκπαίδευση."
+        authors:  Σιάχος Ι., Γεωργόπουλος Ά., Τσάμης Φ., Παπαναγιώτου Ι. & Νικόλτσιος Ε.
+        conference: "5th Conference on Informatics in Education (5th CIE2013) – Η πληροφορική στην εκπαίδευση, Πανεπιστήμιο Πειραιώς, 11-13 Οκτωβρίου 2013."
+      
+      - title: "Implementing a Hybrid Cloud Infrastructure to Facilitate ICT in Education: Design and Evaluation. "
+        authors: Siahos, I., Papanagiotou, I., Georgopoulos, A., Tsamis, F. & Nikoltsios, E.
+       conference: "Educational Technology Use and Design for Improved Learning Opportunities, 2014, pp. 1-18. doi: 10.4018/978-1-4666-6102-8.ch001"
+        
         
 skills:
     title: Skills &amp; Proficiency
