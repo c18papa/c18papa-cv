@@ -102,10 +102,13 @@ publications:
 #      - title: "Οργάνωση και Διαχείριση Σχολικού Εργαστηρίου Υπολογιστών με ΕΛΛΑΚ, Εμπειρία από την εφαρμογή σε 100 σχολεία"
 #        authors: Σιάχος Ι., Γεωργόπουλος Ά. & Παπαναγιώτου Ι.
 #        conference: "6ο Πανελλήνιο Συνέδριο των Εκπαιδευτικών για τις ΤΠΕ, Σύρος, 6-8 Μαΐου 2011, Πρακτικά: σσ. 988-998"
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
       - title: "Designing, Implementing and Supporting a FOSS Solution in Hellenic Primary and Secondary Education Schools"
-      - authors: Siahos, Y., Papanagiotou, I., Georgopoulos, A.
-      - conference: "International Conference on Information Communication Technologies in Education (ICICTE), Rhodes,7-9 July, 2011, pp. 202-212."
+        authors: Siahos, Y., Papanagiotou, I., Georgopoulos, A.
+        conference: "International Conference on Information Communication Technologies in Education (ICICTE), Rhodes,7-9 July, 2011, pp. 202-212."
         
       - title: "An Architecture Paradigm for Providing Cloud Services in School Labs Based on Open Source Softwareto Enhance ICT in Education"
         authors: Siahos, I., Papanagiotou, I., Georgopoulos, A., Tsamis, F. & Papaioannou, I.
