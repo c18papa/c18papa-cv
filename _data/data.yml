@@ -99,9 +99,9 @@ publications:
 #     bibendum fringilla a eu lectus.
 
     papers:
-      - title: "Οργάνωση και Διαχείριση Σχολικού Εργαστηρίου Υπολογιστών με ΕΛΛΑΚ, Εμπειρία από την εφαρμογή σε 100 σχολεία"
-        authors: Σιάχος Ι., Γεωργόπουλος Ά. & Παπαναγιώτου Ι.
-        conference: "6ο Πανελλήνιο Συνέδριο των Εκπαιδευτικών για τις ΤΠΕ, Σύρος, 6-8 Μαΐου 2011, Πρακτικά: σσ. 988-998"
+#      - title: "Οργάνωση και Διαχείριση Σχολικού Εργαστηρίου Υπολογιστών με ΕΛΛΑΚ, Εμπειρία από την εφαρμογή σε 100 σχολεία"
+#        authors: Σιάχος Ι., Γεωργόπουλος Ά. & Παπαναγιώτου Ι.
+#        conference: "6ο Πανελλήνιο Συνέδριο των Εκπαιδευτικών για τις ΤΠΕ, Σύρος, 6-8 Μαΐου 2011, Πρακτικά: σσ. 988-998"
 
       - title: "Designing, Implementing and Supporting aFOSS Solution in Hellenic Primary and Secondary Education Schools"
         authors: Siahos, Y., Papanagiotou, I., Georgopoulos, A.
