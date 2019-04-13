@@ -99,7 +99,7 @@ publications:
 #     bibendum fringilla a eu lectus.
 
     papers:
-      - title: "Οργάνωση και Διαχείριση Σχολικού Εργαστηρίου Υπολογιστών με ΕΛΛΑΚ: Εμπειρία από την εφαρμογή σε 100 σχολεία"
+      - title: Οργάνωση και Διαχείριση Σχολικού Εργαστηρίου Υπολογιστών με ΕΛΛΑΚ: Εμπειρία από την εφαρμογή σε 100 σχολεία
         authors: Σιάχος Ι., Γεωργόπουλος Ά. & Παπαναγιώτου Ι.
         conference: "6ο Πανελλήνιο Συνέδριο των Εκπαιδευτικών για τις ΤΠΕ, Σύρος, 6-8 Μαΐου 2011, Πρακτικά: σσ. 988-998"
 
@@ -121,9 +121,8 @@ publications:
       
       - title: "Implementing a Hybrid Cloud Infrastructure to Facilitate ICT in Education: Design and Evaluation. "
         authors: Siahos, I., Papanagiotou, I., Georgopoulos, A., Tsamis, F. & Nikoltsios, E.
-       conference: "Educational Technology Use and Design for Improved Learning Opportunities, 2014, pp. 1-18. doi: 10.4018/978-1-4666-6102-8.ch001"
-        
-        
+        conference: "Educational Technology Use and Design for Improved Learning Opportunities, 2014, pp. 1-18. doi: 10.4018/978-1-4666-6102-8.ch001"       
+      
 skills:
     title: Skills &amp; Proficiency
 
