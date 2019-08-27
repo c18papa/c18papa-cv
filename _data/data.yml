@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Iason Papanagiotou
+    name: c18papa
     #tagline: Full Stack Developer
     avatar: profile-j.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -61,7 +61,7 @@ education:
       time: 2009
     
     - degree: BSc in Finance and Auditing
-      university: Technological Educational Institute Of Kalamata
+      university: Technological Educational Institute
       time: 2004 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -76,7 +76,7 @@ education:
 experiences:
     - role: Systems Engineer
       time: 2008 - Present
-      company: Computer Technology Institute and Press 
+      company: company name 
       details: |
           - Systems & Network Administrator
           - Penetration testing / Vulnerability assessment
